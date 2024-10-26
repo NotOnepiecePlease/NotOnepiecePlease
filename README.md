@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently coding in C# with DevExpress<br>👨‍💻 ASP.NET - WinForms - NetFramework - DevExpress - SQL Server - MySQL<br>🌱 Currently improving my english skills<br>💬 I play ukulele, drums, cajon, bongos and I love playing a little with Assembly as a hobby.
+🔭 Currently coding in C# with DevExpress<br>👨‍💻 ASP.NET - WinForms - NetFramework - MAUI - DevExpress - SQL Server - MySQL<br>🌱 Currently improving my english skills<br>💬 I play ukulele, drums, cajon, bongos and I love playing a little with Assembly as a hobby.
 
 
 ## 🌐 Socials:
